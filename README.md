@@ -1,6 +1,6 @@
 ## Welcome <3 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Emre. I am 18 years old. People call me Emree, i am a student, I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Emre. I am 19 years old. People call me Emree, i am a student, I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 I have always been interested in computers since I was a child. I like to research and experiment.
 
