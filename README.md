@@ -9,7 +9,7 @@ I have always been interested in computers since I was a child. I like to resear
 - 💼 any freelance work? do reach, Discord Adress: Emree#2023 
 - 💬 ask me about anything, i am happy to help;
 
-[![Gmail Badge](https://img.shields.io/badge/-lightsc4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lightsc4@gmail.com)](mailto:lightsc4@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-emre234242@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emre234242@gmail.com)](mailto:emre234242@gmail.com)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
