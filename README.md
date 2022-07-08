@@ -4,7 +4,7 @@ I am Emre. I am 19 years old. People call me Emree, i am a student, I am always 
 
 I have always been interested in computers since I was a child. I like to research and experiment.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="400" height="350" />
   
 - 💼 any freelance work? do reach, Discord Adress: Emree#2023 
 - 💬 ask me about anything, i am happy to help;
