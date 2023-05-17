@@ -6,7 +6,7 @@ I have always been interested in computers since I was a child. I like to resear
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width="400" height="350" />
   
-- 💼 any freelance work? do reach, Discord Adress: Emree#2023 
+- 💼 any freelance work? do reach, Discord Adress: Emree#2000
 - 💬 ask me about anything, i am happy to help;
 
 [![Gmail Badge](https://img.shields.io/badge/-youneverknow00@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youneverknow00@proton.me)](mailto:youneverknow00@proton.me)
