@@ -18,10 +18,6 @@ I have always been interested in computers since I was a child. I like to resear
 <a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png'> </a>
-<a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://camo.githubusercontent.com/0258520674de33fb0afcc4bde6a00a1a04f6130e764af73b5f8c06d4ca5d0697/68747470733a2f2f692e696d6775722e636f6d2f445a67657456762e706e67'> </a>
-<a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67'> </a>
-<a href= https://github.com/YouNeverKnow00 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
   
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YouNeverKnow00&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YouNeverKnow00&theme=tokyonight" />
